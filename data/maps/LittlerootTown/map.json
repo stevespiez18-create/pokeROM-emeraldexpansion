@@ -36,7 +36,7 @@
       "movement_range_y": 2,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "LittlerootTown_EventScript_Twin",
+      "script": "LittlerootTown_EventScript_TestSign",
       "flag": "0"
     },
     {
@@ -93,7 +93,7 @@
       "flag": "FLAG_HIDE_LITTLEROOT_TOWN_BRENDANS_HOUSE_TRUCK"
     },
     {
-      "graphics_id": "OBJ_EVENT_GFX_SNORLAX",
+      "graphics_id": "OBJ_EVENT_GFX_TRUCK",
       "x": 11,
       "y": 10,
       "elevation": 4,
@@ -140,13 +140,6 @@
       "y": 8,
       "elevation": 0,
       "dest_map": "MAP_LITTLEROOT_TOWN_MAYS_HOUSE_1F",
-      "dest_warp_id": "1"
-    },
-    {
-      "x": 5,
-      "y": 8,
-      "elevation": 0,
-      "dest_map": "MAP_LITTLEROOT_TOWN_BRENDANS_HOUSE_1F",
       "dest_warp_id": "1"
     },
     {
